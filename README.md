@@ -1,1 +1,1 @@
-# AI study assistant?
+# AI study assistant
